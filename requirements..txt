@@ -1,0 +1,11 @@
+vector==1.8.1
+vpython==7.6.5
+numpy==2.2.6
+pandas==2.3.3
+matplotlib==3.10.9
+pillow==12.2.0
+requests==2.34.2
+certifi==2026.5.20
+charset-normalizer==3.4.7
+idna==3.16
+urllib3==2.7.0
