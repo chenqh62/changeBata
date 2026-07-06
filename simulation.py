@@ -59,7 +59,7 @@ scene.append_to_caption("\n\n")
 
 start_btn = button(bind=lambda: start(), text="▶ 开始")
 pause_btn = button(bind=lambda: pause(), text="⏸ 暂停/继续")
-reset_btn = button(bind=lambda: reset(), text="🔄 重置")
+reset_btn = button(bind=lambda: reset(), text=" 重置")
 
 # 小球
 ballA = sphere(pos=vector(BALL_A_POS, 0.2, 0), velocity=vector(BALL_A_VEL, 0, 0), radius=0.2, color=BALL_A_COLOR, make_trail=True)
